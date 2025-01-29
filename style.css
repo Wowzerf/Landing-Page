@@ -10,3 +10,7 @@ body {
 .header, .footer {
     display: flex;
 }
+
+.header {
+    justify-content: space-around;
+}
