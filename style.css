@@ -7,8 +7,9 @@ body {
     flex-direction: column;
 }
 
-.header, .footer {
+.intro, .footer {
     display: flex;
+    flex-direction: column;
 }
 
 .intro, .footer {
