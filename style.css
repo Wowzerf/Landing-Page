@@ -8,11 +8,6 @@ body {
 }
 
 .intro, .footer {
-    display: flex;
-    flex-direction: column;
-}
-
-.intro, .footer {
     background-color: #1F2937;
 }
 
