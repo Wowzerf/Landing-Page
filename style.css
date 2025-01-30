@@ -22,3 +22,7 @@ body {
 .logo, h1 {
     color: #F9FAF8;
 }
+
+.logo {
+    font-size: 24px;
+}
