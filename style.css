@@ -11,8 +11,9 @@ body {
     background-color: #1F2937;
 }
 
-.intro {
-    justify-content: space-around;
+.header {
+    display: flex;
+    justify-content: space-between;      
 }
 
 
