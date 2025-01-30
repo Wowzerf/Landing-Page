@@ -11,13 +11,14 @@ body {
     display: flex;
 }
 
-.header {
-    justify-content: space-around;
-}
-
 .intro, .footer {
     background-color: #1F2937;
 }
+
+.intro {
+    justify-content: space-around;
+}
+
 
 .logo, .main {
     color: #F9FAF8;
