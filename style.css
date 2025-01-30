@@ -14,3 +14,7 @@ body {
 .header {
     justify-content: space-around;
 }
+
+.intro, .footer {
+    background-color: #1F2937;
+}
