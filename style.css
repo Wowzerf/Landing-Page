@@ -19,7 +19,7 @@ body {
     background-color: #1F2937;
 }
 
-.logo, h1 {
+.logo, .main {
     color: #F9FAF8;
 }
 
@@ -27,6 +27,6 @@ body {
     font-size: 24px;
 }
 
-h1 {
+.main {
     font-size: 48px;
 }
