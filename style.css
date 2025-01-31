@@ -45,3 +45,7 @@ ul {
     display: flex;
     gap: 16px;
 }
+
+.welcome {
+    display: flex;
+}
