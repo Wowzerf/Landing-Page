@@ -1,7 +1,8 @@
+/*
 * {
     outline: solid black;
 }
-
+*/
 
 body {
     min-height: 100vh;
@@ -55,3 +56,5 @@ ul {
 .welcome {
     display: flex;
 }
+
+
