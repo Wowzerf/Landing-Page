@@ -73,3 +73,7 @@ ul {
 .intro {
     flex: 1;
 }
+
+.awesome {
+    margin-left: auto;
+}
