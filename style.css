@@ -69,6 +69,7 @@ ul {
 .placeholder {
     background-color: grey;
     margin-right: auto;
+    width: 450px;
 }
 
 .intro {
@@ -77,4 +78,5 @@ ul {
 
 .awesome {
     margin-left: auto;
+    width: 450px;
 }
