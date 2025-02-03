@@ -58,6 +58,8 @@ ul {
 .welcome {
     display: flex;
     justify-content: center;
+    align-items: center;
+    height: 400px;
 }
 
 .footer {
