@@ -82,7 +82,7 @@ ul {
 }
 
 .intro {
-    flex: 1;
+    display: flex;
 }
 
 .awesome {
