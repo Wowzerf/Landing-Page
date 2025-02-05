@@ -69,6 +69,7 @@ ul {
     align-items: center;
     justify-content: space-evenly;
     height: 400px;
+    padding: 8px;
 }
 
 .footer {
@@ -80,6 +81,7 @@ ul {
 .placeholder {
     background-color: grey;
     width: 550px;
+    
 }
 
 .intro {
