@@ -37,6 +37,7 @@ body {
 .logo {
     font-size: 24px;
     font-weight: 600;
+    width: 450px;
 }
 
 .main {
