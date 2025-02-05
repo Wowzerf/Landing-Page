@@ -101,6 +101,9 @@ button {
     cursor: pointer;
     padding: 8px 30px;
     border-radius: 8px;
+    color: #F9FAF8;
+    font-weight: 600;
+    font-size: 16px;
 }
 
 .awe-button {
