@@ -121,4 +121,5 @@ button {
 
 .random {
     display: flex;
+    justify-content: center;
 }
