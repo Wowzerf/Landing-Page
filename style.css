@@ -96,6 +96,9 @@ ul {
 .holder {
     width: 450px;
     height : 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button {
