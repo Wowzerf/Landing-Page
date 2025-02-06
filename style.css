@@ -68,7 +68,7 @@ ul {
 .welcome {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     height: 400px;
     padding: 16px;
     margin: 16px;
