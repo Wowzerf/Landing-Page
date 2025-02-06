@@ -106,6 +106,7 @@ button {
     color: #F9FAF8;
     font-weight: 600;
     font-size: 16px;
+    border-width: thin;
 }
 
 .awe-button {
