@@ -81,6 +81,8 @@ ul {
 .placeholder {
     background-color: grey;
     width: 550px;
+    display: flex;
+    justify-content: center;
     
 }
 
