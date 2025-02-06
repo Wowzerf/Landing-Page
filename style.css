@@ -118,3 +118,7 @@ button {
     border-color: #3882F6;
     margin-top: 16px;
 }
+
+.random {
+    display: flex;
+}
