@@ -163,6 +163,7 @@ button {
     background-color: #E5E7EB;
     height: 350px;
     display: flex;
+    flex-direction: column;
 }
 
 .quote {
