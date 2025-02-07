@@ -148,6 +148,7 @@ button {
 
 .text-under {
     display: flex;
+    justify-content: center;
 }
 
 .descript {
