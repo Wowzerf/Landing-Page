@@ -149,9 +149,11 @@ button {
 .text-under {
     display: flex;
     justify-content: center;
+    gap: 30px;
 }
 
 .descript {
     width: 150px;
     text-align: center;
+    margin-top: 8px;
 }
