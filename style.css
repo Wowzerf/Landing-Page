@@ -134,7 +134,7 @@ button {
     width: 150px;
 }
 
-.middle {
+.container {
     display: flex;
     flex-direction: row;
 }
