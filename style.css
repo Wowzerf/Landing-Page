@@ -175,5 +175,5 @@ button {
 }
 
 .author {
-    
+    display: flex;
 }
