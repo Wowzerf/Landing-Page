@@ -178,3 +178,7 @@ button {
     display: flex;
     justify-content: flex-end;
 }
+
+.author p {
+    font-weight: bold;
+}
