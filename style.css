@@ -195,4 +195,5 @@ button {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #3882F6;
 }
