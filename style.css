@@ -192,4 +192,5 @@ button {
 
 .offer {
     margin: auto;
+    display: flex;
 }
