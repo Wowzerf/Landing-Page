@@ -174,13 +174,11 @@ button {
     width: 756px;
 }
 
-.quote p {
-    font-style: italic;
-}
 
 .author {
     display: flex;
     justify-content: flex-end;
+    
 }
 
 .author p {
