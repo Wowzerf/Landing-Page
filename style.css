@@ -193,4 +193,5 @@ button {
 .offer {
     margin: auto;
     display: flex;
+    justify-content: space-around;
 }
