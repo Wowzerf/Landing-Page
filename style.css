@@ -171,4 +171,5 @@ button {
 .quote {
     font-size: 36px;
     flex-grow: 0;
+    width: 756px;
 }
