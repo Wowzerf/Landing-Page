@@ -78,6 +78,7 @@ ul {
 
 .footer {
     height: 80px;
+    display: flex;
 }
 
 .placeholder {
