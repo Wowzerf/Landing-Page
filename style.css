@@ -201,6 +201,7 @@ button {
     color: #F9FAF8;
     width: 900px;
     padding: 50px;
+    border-radius: 10px;
 }
 
 .last {
