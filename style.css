@@ -190,6 +190,10 @@ button {
     font-size: 25px;
 }
 
+.last, .offer {
+    
+}
+
 .offer {
     display: flex;
     justify-content: space-around;
