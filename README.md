@@ -1,1 +1,2 @@
 # Landing-Page
+Made a landing page based off the example. Not as creative as I should be but i wanted to be able to get used to using flexbox before being more confident when it comes to making my own landing page and being creative with it. This was really challenging, especially with aligning the div containers using flexbox. I'm pretty satisfied with the results, although, I should probably organize the code a bit on my css file. I still have a long way to go but i feel like I've got the drive to keep going!
