@@ -20,6 +20,7 @@ body {
 
 .intro, .footer {
     background-color: #1F2937;
+    display: flex;
 }
 
 .header {
@@ -78,7 +79,6 @@ ul {
 
 .footer {
     height: 80px;
-    display: flex;
     justify-content: center;
     align-items: center;
     color: #F9FAF8;
@@ -93,7 +93,6 @@ ul {
 }
 
 .intro {
-    display: flex;
     flex-direction: column;
 }
 
